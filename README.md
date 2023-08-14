@@ -1,4 +1,5 @@
-# JWT Authentication and Authorization with Spring Boot 3 and Spring Security 6
+Created a Demo Implementation for jwt token generation and basic login-signup.
 
-Medium
-Article: https://medium.com/@truongbui95/jwt-authentication-and-authorization-with-spring-boot-3-and-spring-security-6-2f90f9337421
+It makes use of Springboot 3 and Spring Security 6 to create the flow.
+
+Requirements: .Must have JDk>=18 .Project runs on port 8080 by default.You can change it based on your preference. .If anything else is running on port 8080,Either change the port and stop the operation. .Connect to internet to download configurations and run the project.
